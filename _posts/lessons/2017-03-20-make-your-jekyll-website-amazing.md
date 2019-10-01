@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "Using hfabianodossantos.github.io/site/"
+tagline: "Using hfabianodossantos.github.io/site"
 tags : [bootstrap 4, web desing, jekyll]
 img : helium-jekyll.jpg
 img-mobile : 
