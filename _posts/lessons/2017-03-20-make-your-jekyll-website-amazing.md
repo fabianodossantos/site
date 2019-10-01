@@ -1,7 +1,7 @@
 ---
 layout: post
 category : lessons
-tagline: "Using heliumjk.github.io"
+tagline: "Using hfabianodossantos.github.io/site/"
 tags : [bootstrap 4, web desing, jekyll]
 img : helium-jekyll.jpg
 img-mobile : 
@@ -14,7 +14,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: helium, web desing, css, html, bootstrap 4
-canonical: https://fullit.github.io
+canonical: https:/fullit.github.io
 ---
 {% include JB/setup %}
 

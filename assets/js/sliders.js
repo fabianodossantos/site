@@ -47,7 +47,7 @@
   <script>
     $(document).ready(function() {
       $("#image-slider").owlCarousel({
-        navigation: false, // Show next and prev buttons
+        navigation: false, / Show next and prev buttons
         slideSpeed: 300,
         paginationSpeed: 400,
         singleItem: true
@@ -61,7 +61,7 @@
     $(document).ready(function() {
       $("#single-testimonial-item").owlCarousel({
         items: 1,
-        navigation: false, // Show next and prev buttons
+        navigation: false, / Show next and prev buttons
         slideSpeed: 300,
         paginationSpeed: 400,
         singleItem: true

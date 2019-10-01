@@ -1,4 +1,4 @@
-//jQuery to collapse the navbar on scroll
+/jQuery to collapse the navbar on scroll
 $(window).scroll(function() {
     if ($(".use-header").offset().top > 50) {
         $(".navbar-fixed-top").addClass("top-nav-collapse");
@@ -7,7 +7,7 @@ $(window).scroll(function() {
     }
 });
 
-//jQuery for page scrolling feature - requires jQuery Easing plugin
+/jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);

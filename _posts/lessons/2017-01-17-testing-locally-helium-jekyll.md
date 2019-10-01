@@ -14,7 +14,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: helium, html, css, landing page, jekyll, ruby, web marketing, advertising
-canonical: https://heliumjk.github.io
+canonical: https://fabianodossantos.github.io/site/
 ---
 {% include JB/setup %}
 
@@ -26,22 +26,22 @@ dynamic components such as templates, partials, liquid code, markdown, etc. Jeky
 
 To test your site locally, you'll need
 
-1. [ruby](https://www.ruby-lang.org/en/)
-2. [Jekyll](https://http://jekyllrb.com/)
-3. [github-pages](https://github.com/github/pages-gem) gem
+1. [ruby](https:/www.ruby-lang.org/en/)
+2. [Jekyll](https://ttp:/jekyllrb.com/)
+3. [github-pages](https:/github.com/github/pages-gem) gem
 
 
 ### Installing ruby
 
 There are
-[lots of different ways to install ruby](https://www.ruby-lang.org/en/installation/).
+[lots of different ways to install ruby](https:/www.ruby-lang.org/en/installation/).
 
 
 In Mac OS X, older versions of ruby will already be installed.  But I
-use the [Ruby Version Manager (RVM)](http://rvm.io/) to have a more
-recent version.  You could also use [Homebrew](http://brew.sh/).
+use the [Ruby Version Manager (RVM)](http:/rvm.io/) to have a more
+recent version.  You could also use [Homebrew](http:/brew.sh/).
 
-In Windows, use [RubyInstaller](http://rubyinstaller.org/). (In most
+In Windows, use [RubyInstaller](http:/rubyinstaller.org/). (In most
 of this tutorial, I've assumed you're using a Mac or some flavor of
 Unix. It's possible that none of this was usable for Windows
 folks. Sorry!)
@@ -55,7 +55,7 @@ Run the following command:
 
 ```
 This will install the `github-pages` gem and all dependencies
-(including [jekyll](http://jekyllrb.com/)).
+(including [jekyll](http:/jekyllrb.com/)).
 
 Later, to update the gem, type:
 ``` HTML
@@ -87,9 +87,9 @@ To make jekyll automatically re-build your changes you can also add the `--watch
     jekyll serve --watch
     
 ```
-Now open your browser and go to <http://localhost:4000>.
+Now open your browser and go to <http:/localhost:4000>.
 
-Read the complete tutorial on <http://jekyllrb.com/docs/usage/>.
+Read the complete tutorial on <http:/jekyllrb.com/docs/usage/>.
 
 ## Testing images
 
@@ -140,18 +140,18 @@ Read the complete tutorial on <http://jekyllrb.com/docs/usage/>.
 
 ### Video embed sample
 <div class="video-container">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ikbYpAHkurs?ecver=1" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https:/www.youtube.com/embed/ikbYpAHkurs?ecver=1" frameborder="0" allowfullscreen></iframe>
 </div>
 
 ***
 #### #Code
 ``` HTML
 	<div class="video-container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/ikbYpAHkurs?ecver=1" frameborder="0" allowfullscreen></iframe>
+	<iframe width="560" height="315" src="https:/www.youtube.com/embed/ikbYpAHkurs?ecver=1" frameborder="0" allowfullscreen></iframe>
 	</div>
 
 ```
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT)
+[MIT](http:/opensource.org/licenses/MIT)

@@ -13,7 +13,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: helium, html, css, landing page, jekyll, ruby, web marketing, advertising
-canonical: https://fullit.github.io
+canonical: https:/fullit.github.io
 
 ---
 {% include JB/setup %}
@@ -34,14 +34,14 @@ The following example shows how to highlight a piece of code throughout the use 
 
     'use strict';
 
-    // class helper functions from bonzo https://github.com/ded/bonzo
+    / class helper functions from bonzo https:/github.com/ded/bonzo
 
     function classReg( className ) {
       return new RegExp("(^|\\s+)" + className + "(\\s+|$)");
     }
 
-    // classList support for class management
-    // altho to be fair, the api sucks because it won't accept multiple classes at once
+    / classList support for class management
+    / altho to be fair, the api sucks because it won't accept multiple classes at once
     var hasClass, addClass, removeClass;
 
     if ( 'classList' in document.documentElement ) {
@@ -75,24 +75,24 @@ The following example shows how to highlight a piece of code throughout the use 
     }
 
     var classie = {
-      // full names
+      / full names
       hasClass: hasClass,
       addClass: addClass,
       removeClass: removeClass,
       toggleClass: toggleClass,
-      // short names
+      / short names
       has: hasClass,
       add: addClass,
       remove: removeClass,
       toggle: toggleClass
     };
 
-    // transport
+    / transport
     if ( typeof define === 'function' && define.amd ) {
-      // AMD
+      / AMD
       define( classie );
     } else {
-      // browser global
+      / browser global
       window.classie = classie;
     }
 
@@ -106,7 +106,7 @@ Another snippet rendered with the CSS code syntax:
 
 
 ``` CSS
-    @import url('https://fonts.googleapis.com/css?family=Alfa+Slab+One|Gentium+Book+Basic');
+    @import url('https:/fonts.googleapis.com/css?family=Alfa+Slab+One|Gentium+Book+Basic');
     /* Reset CSS
      * --------------------------------------- */
     body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,
@@ -161,4 +161,4 @@ Another snippet rendered with the CSS code syntax:
 
 **Check the markdown of this example in order to fully comprehend the correct syntax.**
 
-[Here](https://github.com/sentenza/sentenza.github.io/issues/1) you can find more detailed information.
+[Here](https:/github.com/sentenza/sentenza.github.io/issues/1) you can find more detailed information.

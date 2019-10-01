@@ -1,6 +1,6 @@
 
     $(document).ready(function() {
-      //MixitUp
+      /MixitUp
       $(function() {
         $('#portfolio').mixItUp();
       });
