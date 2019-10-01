@@ -14,7 +14,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: helium, html, css, landing page, jekyll, ruby, web marketing, advertising
-canonical: https://fabianodossantos.github.io/site/
+canonical: https://fabianodossantos.github.io/site
 ---
 {% include JB/setup %}
 
