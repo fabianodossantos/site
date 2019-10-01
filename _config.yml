@@ -1,5 +1,5 @@
 # This is the default format.
-# For more see: http://jekyllrb.com/docs/permalinks/
+# For more see: http:/jekyllrb.com/docs/permalinks/
 permalink: /:categories/:year/:month/:day/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
@@ -7,8 +7,8 @@ highlighter: null
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-url: https://heliumjk.github.io
-baseurl: "/heliumjk.github.io"
+url: https://fabianodossantos.github.io/site/
+baseurl: "/hfabianodossantos.github.io/site/"
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -25,7 +25,7 @@ title : Helium Jekyll
 tagline: Bootstrap 4 UI kit for jekyll
 author : 
   name : Fabiano dos Santos
-  site: https://fabianodossantos.github.io/site/
+  site: https:/fabianodossantos.github.io/site/
   description : I&#39;m a web master interested in communication applied to web marketing.
   image : social-image.png
   email : fabianodossantos@gmail.com
@@ -46,7 +46,7 @@ twitter_username: fabianodossantos
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://heliumjk.github.io
+production_url : https://fabianodossantos.github.io/site/
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -57,35 +57,35 @@ JB :
   # Links in your website should always be prefixed with {{BASE_PATH}}
   # however this value will be dynamically changed depending on your deployment situation.
   #
-  # CNAME (http://yourcustomdomain.com)
+  # CNAME (http:/yourcustomdomain.com)
   #   DO NOT SET BASE_PATH
   #   (urls will be prefixed with "/" and work relatively)
   #
-  # GitHub Pages (http://username.github.io)
+  # GitHub Pages (http:/username.github.io)
   #   DO NOT SET BASE_PATH
   #   (urls will be prefixed with "/" and work relatively)
   #
-  # GitHub Project Pages (http://username.github.io/project-name)
+  # GitHub Project Pages (http:/username.github.io/project-name)
   #
   #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
-  #  REQUIRED! Set BASE_PATH to: http://username.github.io/project-name
+  #  REQUIRED! Set BASE_PATH to: http:/username.github.io/project-name
   #
   # CAUTION:
   #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : https://heliumjk.github.io
+  BASE_PATH : https://fabianodossantos.github.io/site/
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
   #
   # Override this by defining an absolute path to assets here.
   # ex:
-  #   http://s3.amazonaws.com/yoursite/themes/watermelon
+  #   http:/s3.amazonaws.com/yoursite/themes/watermelon
   #   /assets
   #
-  ASSET_PATH : https://heliumjk.github.io/assets/themes/bootstrap
+  ASSET_PATH : https://fabianodossantos.github.io/site/assets/themes/bootstrap
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.

@@ -14,7 +14,7 @@ css:
 js: 
 bgcolor: ff5a71
 keywords: fullit, javascript, css, html, bootstrap, framework
-canonical: https://fullit.github.io
+canonical: https:/fullit.github.io
 ---
 {% include JB/setup %}
 
@@ -22,7 +22,7 @@ canonical: https://fullit.github.io
 ### Simple card
 
 <div class="card" style="width: 20rem;">
-  <img class="card-img-top" src="https://placehold.it/350x150/e8117f/ffffff" alt="Card image cap">
+  <img class="card-img-top" src="https:/placehold.it/350x150/e8117f/ffffff" alt="Card image cap">
   <div class="card-block">
     <h4 class="card-title">Card title</h4>
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -34,7 +34,7 @@ canonical: https://fullit.github.io
 
 <div class="card-group">
   <div class="card">
-    <img class="card-img-top" src="https://placehold.it/256x180/e8117f/ffffff" alt="Card image cap">
+    <img class="card-img-top" src="https:/placehold.it/256x180/e8117f/ffffff" alt="Card image cap">
     <div class="card-block">
       <h4 class="card-title">Card title</h4>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -42,7 +42,7 @@ canonical: https://fullit.github.io
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="https://placehold.it/256x180/e8117f/ffffff" alt="Card image cap">
+    <img class="card-img-top" src="https:/placehold.it/256x180/e8117f/ffffff" alt="Card image cap">
     <div class="card-block">
       <h4 class="card-title">Card title</h4>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
@@ -50,7 +50,7 @@ canonical: https://fullit.github.io
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="https://placehold.it/256x180/e8117f/ffffff" alt="Card image cap">
+    <img class="card-img-top" src="https:/placehold.it/256x180/e8117f/ffffff" alt="Card image cap">
     <div class="card-block">
       <h4 class="card-title">Card title</h4>
       <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
@@ -105,7 +105,7 @@ canonical: https://fullit.github.io
 
 <div class="card-columns">
   <div class="card">
-    <img class="card-img-top img-fluid" src="https://placehold.it/242x160/e8117f/ffffff" alt="Card image cap">
+    <img class="card-img-top img-fluid" src="https:/placehold.it/242x160/e8117f/ffffff" alt="Card image cap">
     <div class="card-block">
       <h4 class="card-title">Card title that wraps to a new line</h4>
       <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
@@ -122,7 +122,7 @@ canonical: https://fullit.github.io
     </blockquote>
   </div>
   <div class="card">
-    <img class="card-img-top img-fluid" src="https://placehold.it/242x160/e8117f/ffffff" alt="Card image cap">
+    <img class="card-img-top img-fluid" src="https:/placehold.it/242x160/e8117f/ffffff" alt="Card image cap">
     <div class="card-block">
       <h4 class="card-title">Card title</h4>
       <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
@@ -147,7 +147,7 @@ canonical: https://fullit.github.io
     </div>
   </div>
   <div class="card">
-    <img class="card-img img-fluid" src="https://placehold.it/242x260/e8117f/ffffff" alt="Card image">
+    <img class="card-img img-fluid" src="https:/placehold.it/242x260/e8117f/ffffff" alt="Card image">
   </div>
   <div class="card p-3 text-right">
     <blockquote class="card-blockquote">

@@ -13,7 +13,7 @@ css:
 js: 
 bgcolor: 
 keywords: html, css, markdown, jekyll, docs, jekyllthemes, theme
-canonical: https://fullit.github.io
+canonical: https:/fullit.github.io
 
 ---
 {% include JB/setup %}
@@ -78,7 +78,7 @@ This is \*\*not\*\* in bold.
 1. with
 1. numbers
 
-[This is a link](https://antoniotrento.github.io)
+[This is a link](https:/antoniotrento.github.io)
 
 ----
 
@@ -117,13 +117,13 @@ This is \*\*not\*\* in bold.
 {:.sub-title}
 #### Not in markdown
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Po16lsLfpMk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https:/www.youtube.com/embed/Po16lsLfpMk" frameborder="0" allowfullscreen></iframe>
 
 ----
 {:.sub-title}
 #### in HTML
 ```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Po16lsLfpMk" 
+<iframe width="560" height="315" src="https:/www.youtube.com/embed/Po16lsLfpMk" 
 frameborder="0" allowfullscreen></iframe>
 ```
 ----
@@ -395,21 +395,21 @@ Markdown supports two styles for creating links: inline and reference. With both
 Inline-style links use parentheses immediately after the link text. For example:
 
 ```
-This is an [example link](http://example.com/).
+This is an [example link](http:/example.com/).
 Output:
 
-<p>This is an <a href="http://example.com/">
+<p>This is an <a href="http:/example.com/">
 example link</a>.</p>
 ```
 Optionally, you may include a title attribute in the parentheses:
 
 ```
-This is an [example link](http://example.com/ "With a Title").
+This is an [example link](http:/example.com/ "With a Title").
 ```
 Output:
 
 ```
-<p>This is an <a href="http://example.com/" title="With a Title">
+<p>This is an <a href="http:/example.com/" title="With a Title">
 example link</a>.</p>
 ```
 
@@ -419,16 +419,16 @@ Reference-style links allow you to refer to your links by names, which you defin
 I get 10 times more traffic from [Google][1] than from
 [Yahoo][2] or [MSN][3].
 
-[1]: http://google.com/        "Google"
-[2]: http://search.yahoo.com/  "Yahoo Search"
-[3]: http://search.msn.com/    "MSN Search"
+[1]: http:/google.com/        "Google"
+[2]: http:/search.yahoo.com/  "Yahoo Search"
+[3]: http:/search.msn.com/    "MSN Search"
 ```
 Output:
 
 ```
-<p>I get 10 times more traffic from <a href="http://google.com/"
-title="Google">Google</a> than from <a href="http://search.yahoo.com/"
-title="Yahoo Search">Yahoo</a> or <a href="http://search.msn.com/"
+<p>I get 10 times more traffic from <a href="http:/google.com/"
+title="Google">Google</a> than from <a href="http:/search.yahoo.com/"
+title="Yahoo Search">Yahoo</a> or <a href="http:/search.msn.com/"
 title="MSN Search">MSN</a>.</p>
 ```
 
@@ -438,14 +438,14 @@ The title attribute is optional. Link names may contain letters, numbers and spa
 I start my morning with a cup of coffee and
 [The New York Times][NY Times].
 
-[ny times]: http://www.nytimes.com
+[ny times]: http:/www.nytimes.com
 ```
 
 Output:
 
 ```
 <p>I start my morning with a cup of coffee and
-<a href="http://www.nytimes.com/">The New York Times</a>.</p>
+<a href="http:/www.nytimes.com/">The New York Times</a>.</p>
 ```
 
 # IMAGES
