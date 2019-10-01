@@ -24,20 +24,20 @@ post_limit: 5
 title : Helium Jekyll
 tagline: Bootstrap 4 UI kit for jekyll
 author : 
-  name : Antonio Trento
-  site: https://lantoniotrento.github.io
+  name : Fabiano dos Santos
+  site: https://fabianodossantos.github.io
   description : I&#39;m a web master interested in communication applied to web marketing.
   image : social-image.png
-  email : lantoniotrento@gmail.com
-  github : antoniotrento
-  twitter : lantoniotrento
-  facebook: lantoniotrento
-  linkedin: antoniotrento
-  instagram: lantoniotrento
-  pinterest: antoniotrento
+  email : fabianodossantos@gmail.com
+  github : fabianodossantos
+  twitter : fabianodossantos
+  facebook: fabianodossantos
+  linkedin: fabianodossantos
+  instagram: fabianodossantos2
+  pinterest: 
   feedburner : 
 
-twitter_username: lantoniotrento
+twitter_username: fabianodossantos
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
 # Most places will/should use BASE_PATH to make the urls
